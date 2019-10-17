@@ -22,11 +22,10 @@
 				 <div class="col-md-3 ftr-grid wow bounceInLeft" data-wow-delay="0.3s">
 				 	<ul class="ftr-nav">
 				 		<li><a href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="services.html">Services</a></li>
-						<li><a href="codes.html">Short codes</a></li>
-						<li><a href="menu.html">Menu</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="about.html">Food</a></li>
+						<li><a href="services.html">Transaction</a></li>
+						<li><a href="menu.html">Contact</a></li>
+						<li><a href="contact.html">Login</a></li>
 				 	</ul>
 				 </div>
 			 <div class="clearfix"> </div>
